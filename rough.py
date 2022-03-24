@@ -1,7 +1,7 @@
 import re
 import csv
 import operator
-# file stored in new_branch
+print('dummy test')
 errors={}
 per_user={}
 with open('python/algorithms/syslog.log') as f:
